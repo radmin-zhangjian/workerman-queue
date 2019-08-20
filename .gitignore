@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+logs/
+logs/queue*
+logs/workerman*
+.buildpath
+.project
+.settings/org.eclipse.php.core.prefs
+_Library_WebServer_Documents_git_workerman-queue_start.php.pid
